@@ -3,8 +3,8 @@ import Intro from "./components/intro/Intro";
 import Portfolio from "./components/portfolio/Portfolio";
 import Works from "./components/works/Works";
 import Testimonials from "./components/testimonials/Testimonials";
-import Contact from "./components/contact/Contact";
-import Footer from "./components/footer/Footer";
+// import Contact from "./components/contact/Contact";
+// import Footer from "./components/footer/Footer";
 import Menu from "./components/menu/Menu";
 import "./app.scss"
 
@@ -22,7 +22,7 @@ function App() {
         <Works />
         <Testimonials />
         {/* <Contact /> */}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </div>
   );

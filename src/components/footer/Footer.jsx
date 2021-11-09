@@ -1,5 +1,5 @@
 import './footer.scss'
-import { useState } from 'react'
+// import { useState } from 'react'
 import GitHubIcon from '@material-ui/icons/GitHub';
 // import YouTubeIcon from '@mui/icons-material/YouTube';
 // import EmailIcon from '@mui/icons-material/Email';
